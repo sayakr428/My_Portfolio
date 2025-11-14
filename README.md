@@ -1,3 +1,6 @@
+<img width="981" height="904" alt="image" src="https://github.com/user-attachments/assets/8d6dc8cd-474c-4c6b-b48e-2d75c713b7a5" />
+
+
 # My_Portfolio – Sayak Roy
 
 Premium, dark-themed, single-page portfolio for Sayak Roy — AI Infrastructure & Automation Engineer (Cloud, DevOps, SDN).
