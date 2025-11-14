@@ -1,6 +1,6 @@
 export default function Timeline() {
   const items = [
-    { role: 'AWS Terraform Ansible n8n automations for SaaS platforms • OpenDaylight SDN NETCONF/RESTCONF YAML OpenConfig IRR-driven BGP filters' },
+    { role: 'AI Infrastructure & Automation Engineer', org: 'Tata Communications – Chennai', details: 'AWS Terraform Ansible n8n automations for SaaS platforms • OpenDaylight SDN NETCONF/RESTCONF YAML OpenConfig IRR-driven BGP filters' },
     { role: 'Analyst Intern', org: 'Accenture – Bangalore', details: 'React+Tailwind dashboards, Flask APIs, MongoDB/SQL data pipelines.' },
   ]
   return (
