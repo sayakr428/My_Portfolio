@@ -44,7 +44,7 @@ export default function Hero() {
           AI Infrastructure & Automation Engineer | Cloud, DevOps, SDN & Telemetry
         </div>
         <p className="text-white/70 max-w-xl">
-          I design and automate intelligent cloud and network systems with AI, DevOps, and real-time telemetry.
+          I build and automate cloud and network infrastructure with AI DevOps full stack tools SDN and telemetry
         </p>
         <div className="flex gap-3">
           <motion.button whileHover={{ scale: 1.05 }} className="btn-primary" onClick={() => document.getElementById('projects')?.scrollIntoView({ behavior: 'smooth' })}>View Projects</motion.button>
